@@ -1,0 +1,33 @@
+p.heading {
+    display: flex;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #393737;
+    width: 600px;
+    border-radius: 25px;
+    margin-top: 20px;
+    height: 80px;
+    color: white;
+    margin-right: auto;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+  }
+  @media only screen and (max-width: 600px) {
+    p.heading {
+      display: flex;
+      margin-left: auto;
+      justify-content: center;
+      align-items: center;
+      background-color: #393737;
+      width: 100%;
+      border-radius: 25px;
+      margin-top: 35px;
+      height: 50px;
+      color: white;
+      margin-right: auto;
+      text-align: center;
+      font-size: 18px;
+  }
+  }

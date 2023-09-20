@@ -1,0 +1,46 @@
+h1.text-white {
+    display: block;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 70px;
+}
+p.text-white{
+    display: block;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40px;
+    left: 70px;
+}
+button {
+    display: flex;
+    background-color: #e0d8d824;
+    color: #a39f9ff5;
+    border: 4px double #e0d8d824;
+    margin-top: 10px;
+}
+input[type="text"] {
+    background-color: #e0d8d824;
+    color: #a39f9ff5;
+    border: 4px double #e0d8d824 !important;
+    margin-top: 10px;
+    outline: none;
+}
+input[type="email"] {
+    background-color: #e0d8d824;
+    color: #a39f9ff5;
+    border: 4px double #e0d8d824 !important;
+    margin-top: 10px;
+    outline: none;
+}
+input[type="number"] {
+    background-color: #e0d8d824;
+    color: #a39f9ff5;
+    border: 4px double #e0d8d824 !important;
+    margin-top: 10px;
+    outline: none;
+}

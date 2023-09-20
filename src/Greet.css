@@ -1,0 +1,39 @@
+button.greet_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 50px;
+    background-color: #e0d8d824;
+    color: #a39f9ff5;
+    font-weight: bold;
+    border: 4px double #e0d8d824;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 55px;
+  }
+  button.greet_button:hover {
+    color: white;
+    border: 4px double white;
+  }
+
+@media only screen and (max-width: 600px) {
+    button.greet_button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 120px;
+        height: 35px;
+        background-color: #e0d8d824;
+        color: #a39f9ff5;
+        font-weight: bold;
+        border: 3px double #e0d8d824;
+        font-size: 15px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+        margin-top: 55px;
+      }
+    }

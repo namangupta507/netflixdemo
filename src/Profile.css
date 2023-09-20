@@ -1,0 +1,13 @@
+span.logo_profile {
+    display: flex;
+    background-color: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    border: 5px double black;
+    cursor: pointer;
+  }
+  
